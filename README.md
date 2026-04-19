@@ -36,9 +36,11 @@ R · vars · urca · forecast · tseries · ggplot2 · timetk
 
 ## Structure
 
+```
 ├── Grupo6_Aula7_TS.ipynb     ← main notebook
 ├── Grupo6_Aula7_TS.pdf       ← rendered output
 └── README.md
+```
 
 ## How to run
 
